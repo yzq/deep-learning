@@ -56,3 +56,7 @@ Thumbs.db
 # 日志
 logs/
 *.log 
+source/chapter5/mlp.params
+source/chapter5/mydict
+source/chapter5/x-file
+source/chapter5/x-files
